@@ -1,0 +1,13 @@
+{
+  "name": "count4ever",
+  "version": "1.0.0",
+  "description": "this node module will count forever in an interval of 1 second",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
